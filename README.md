@@ -6,7 +6,7 @@
 
 過去工作作品，因涉及到機敏性資料僅包含於傳感器公司任職時的開發項目。未收錄於醫療資訊產業與政府標案內部系統專案項目。
 
-[PDF 版本下載]()
+[PDF 版本下載](https://drive.google.com/open?id=1V-rYUY20U8rzxCvMrkDU7Oyx3LI13bd9)
 
 目錄
 ------
